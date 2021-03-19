@@ -4,8 +4,9 @@ categories: Tech
 author: Ahmed Elmayyah
 tags: [C, Programming, Low Level]
 article_header:
-    type: cover
-    image: /assets/images/about/Thinkpad.jpg
+  type: cover
+  image:
+    src: /assets/images/about/Thinkpad.jpg
 cover: /assets/images/about/Thinkpad.jpg
 
 ---
