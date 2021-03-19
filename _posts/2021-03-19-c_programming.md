@@ -4,7 +4,7 @@ title: Test Post about C Programming
 categories: Tech
 author: Ahmed Elmayyah
 tags: [C, Programming, Low Level]
-mode: immersive
+mode: normal 
 header:
   theme: dark
 article_header:
