@@ -48,7 +48,7 @@ Although it may have gained slight popularity, a lot of people argue that since 
 ![dvorak keyboard](/assets/images/qwerty-keyboard/KB_United_States_Dvorak.svg.png)
 
 {: style="text-align:center"}
-A standard QWERTY (UK and Ireland) keyboard.
+The simplified standard Dvorak keyboard layout.
 
 Thank you for reading my first post! I originally published this as a “note” on Facebook, but since this blog exists now I’ll start posting here.
 If you enjoyed it or think that it is interesting, share it so other people would read it too!

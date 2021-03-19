@@ -42,6 +42,9 @@ Not strictly software, but related:
 - [EOI 2019 Competitive Programming Sessions](https://github.com/Satharus/EOI-Preparation-Sessions) for middle schoolers.
 - Open Source Community [FCIS Linux Workshop 2019 content](https://github.com/Satharus/OSC19-Linux-Workshop-Sessions).
 
+#### Add me on Strava 
+<iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/45784755/activity-summary/b916de7f407305cdc30ce631d5a1834f9a997465'></iframe>
+
 ## Contact Me 
 Feel free to contact me anytime! 😀
 
