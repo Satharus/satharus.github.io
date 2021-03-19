@@ -14,7 +14,7 @@ The C standard has many different signatures for `main()`, but let's just stick 
 Here is an example of a correct C program:
 <!--more-->
 
-```C
+```c
 #include <stdio.h>
 int main(int argc, char* argv[])
 {
@@ -27,7 +27,7 @@ This compiles successfully on gcc.
 {:.success}
 
 This is an example of an incorrect C program:
-```C
+```c
 function start
 {
     print("helloooo");
@@ -35,6 +35,6 @@ function start
 ```
 
 This doesn't compile as it isn't valid syntax
-{:error}
+{:.error}
 
 ---
