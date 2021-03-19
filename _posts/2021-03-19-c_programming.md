@@ -3,6 +3,9 @@ title: Test Post about C Programming
 categories: Tech
 author: Ahmed Elmayyah
 tags: [C, Programming]
+sharing: true
+show_subscribe: true
+license: true
 ---
 
 This is literally just a test post about C programming to test Jekyll and stuff.
