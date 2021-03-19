@@ -12,7 +12,6 @@ key: page-about
 ---
 
 
-
 {: style="text-align:center"}
 ![me.jpg](assets/images/about/me.jpg)
 
