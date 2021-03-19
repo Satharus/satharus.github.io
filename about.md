@@ -23,7 +23,8 @@ My hobbies have mostly been tech-related, such as electronics, cybersecurity, cu
 
 “Satharus” was the name of my character in a couple of RPG games during high school and it just kinda stuck with me.
 
-## Contant Me 
+## Contact Me 
 Feel free to contact me anytime! 😀
-You can also find links to my social media accounts (and my GitHub) in the site’s footer
+
+You can find links to my social media accounts in the site’s footer.
 
