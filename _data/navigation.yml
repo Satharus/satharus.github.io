@@ -8,77 +8,51 @@ testSideBar:
 header:
   - titles:
       # @start locale config
-      en      : &EN       Categories 
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      zh-Hans : &ZH_HANS  归档
-      zh      : *ZH_HANS
-      zh-CN   : *ZH_HANS
-      zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  歸檔
-      zh-TW   : *ZH_HANT
-      zh-HK   : *ZH_HANT
-      ko      : &KO       아카이브
-      ko-KR   : *KO
-      fr      : &FR       
-      fr-BE   : *FR
-      fr-CA   : *FR
-      fr-CH   : *FR
-      fr-FR   : *FR
-      fr-LU   : *FR
+      en      : &EN       TechCS 
+      en-GB   : *EN       TechCS
+      en-US   : *EN       TechCS
+      en-CA   : *EN       TechCS
+      en-AU   : *EN       TechCS
       # @end locale config
     url: /404.html
 
   - titles:
       # @start locale config
+      en      : &EN       Cybersecurity 
+      en-GB   : *EN       Cybersecurity
+      en-US   : *EN       Cybersecurity
+      en-CA   : *EN       Cybersecurity
+      en-AU   : *EN       Cybersecurity
+      # @end locale config
+    url: /404.html
+
+  - titles:
+       # @start locale config
+      en      : &EN       Misc 
+      en-GB   : *EN       Misc
+      en-US   : *EN       Misc
+      en-CA   : *EN       Misc
+      en-AU   : *EN       Misc
+      # @end locale config
+    url: /404.html   
+  
+  - titles:
+      # @start locale config
       en      : &EN       About
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      zh-Hans : &ZH_HANS  关于
-      zh      : *ZH_HANS
-      zh-CN   : *ZH_HANS
-      zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  關於
-      zh-TW   : *ZH_HANT
-      zh-HK   : *ZH_HANT
-      ko      : &KO       소개
-      ko-KR   : *KO
-      fr      : &FR       À propos
-      fr-BE   : *FR
-      fr-CA   : *FR
-      fr-CH   : *FR
-      fr-FR   : *FR
-      fr-LU   : *FR
+      en-GB   : *EN       About
+      en-US   : *EN       About
+      en-CA   : *EN       About
+      en-AU   : *EN       About
       # @end locale config
     url: /about.html
 
   - titles:
       # @start locale config
       en      : &EN       Archive
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      zh-Hans : &ZH_HANS  归档
-      zh      : *ZH_HANS
-      zh-CN   : *ZH_HANS
-      zh-SG   : *ZH_HANS
-      zh-Hant : &ZH_HANT  歸檔
-      zh-TW   : *ZH_HANT
-      zh-HK   : *ZH_HANT
-      ko      : &KO       아카이브
-      ko-KR   : *KO
-      fr      : &FR       Archives
-      fr-BE   : *FR
-      fr-CA   : *FR
-      fr-CH   : *FR
-      fr-FR   : *FR
-      fr-LU   : *FR
+      en-GB   : *EN       Archive
+      en-US   : *EN       Archive
+      en-CA   : *EN       Archive
+      en-AU   : *EN       Archive
       # @end locale config
     url: /archive.html
-
 
