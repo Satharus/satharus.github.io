@@ -11,6 +11,7 @@ article_header:
   type: cover 
   theme: dark
   background_image: false
+# Stick to an image with a height of 700
   image:
     src: /assets/images/about/Thinkpad.jpg
 cover: /assets/images/about/Thinkpad.jpg
