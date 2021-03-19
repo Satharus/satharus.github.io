@@ -8,51 +8,51 @@ testSideBar:
 header:
   - titles:
       # @start locale config
-      en      : &EN       TechCS 
-      en-GB   : *EN       TechCS
-      en-US   : *EN       TechCS
-      en-CA   : *EN       TechCS
-      en-AU   : *EN       TechCS
+      en      : &EN      TechCS 
+      en-GB   : *EN      TechCS
+      en-US   : *EN      TechCS
+      en-CA   : *EN      TechCS
+      en-AU   : *EN      TechCS
       # @end locale config
     url: /404.html
 
   - titles:
       # @start locale config
-      en      : &EN       Cybersecurity 
-      en-GB   : *EN       Cybersecurity
-      en-US   : *EN       Cybersecurity
-      en-CA   : *EN       Cybersecurity
-      en-AU   : *EN       Cybersecurity
+      en      : &EN      Cybersecurity 
+      en-GB   : *EN      Cybersecurity
+      en-US   : *EN      Cybersecurity
+      en-CA   : *EN      Cybersecurity
+      en-AU   : *EN      Cybersecurity
       # @end locale config
     url: /404.html
 
   - titles:
        # @start locale config
-      en      : &EN       Misc 
-      en-GB   : *EN       Misc
-      en-US   : *EN       Misc
-      en-CA   : *EN       Misc
-      en-AU   : *EN       Misc
+      en      : &EN      Misc 
+      en-GB   : *EN      Misc
+      en-US   : *EN      Misc
+      en-CA   : *EN      Misc
+      en-AU   : *EN      Misc
       # @end locale config
     url: /404.html   
   
   - titles:
       # @start locale config
-      en      : &EN       About
-      en-GB   : *EN       About
-      en-US   : *EN       About
-      en-CA   : *EN       About
-      en-AU   : *EN       About
+      en      : &EN      About
+      en-GB   : *EN      About
+      en-US   : *EN      About
+      en-CA   : *EN      About
+      en-AU   : *EN      About
       # @end locale config
     url: /about.html
 
   - titles:
       # @start locale config
-      en      : &EN       Archive
-      en-GB   : *EN       Archive
-      en-US   : *EN       Archive
-      en-CA   : *EN       Archive
-      en-AU   : *EN       Archive
+      en      : &EN      Archive
+      en-GB   : *EN      Archive
+      en-US   : *EN      Archive
+      en-CA   : *EN      Archive
+      en-AU   : *EN      Archive
       # @end locale config
     url: /archive.html
 
