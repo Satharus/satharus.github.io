@@ -1,6 +1,6 @@
 testSideBar:
   - title: Categories
-    childen:
+    children:
       - title: Test Category
         url: /404.html
       - title: Category 2
