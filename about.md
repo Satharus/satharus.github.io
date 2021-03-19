@@ -11,7 +11,10 @@ titles:
 key: page-about
 ---
 
-![me.jpg](assets/images/about/me.jpg)
+
+
+{: style="text-align:center"}
+-> ![me.jpg](assets/images/about/me.jpg)
 
 ## About Me 
 
