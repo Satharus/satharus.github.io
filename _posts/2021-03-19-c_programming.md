@@ -36,5 +36,3 @@ function start
 
 This doesn't compile as it isn't valid syntax.
 {:.error}
-
----
