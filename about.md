@@ -33,4 +33,4 @@ You can find links to my social media accounts in the site’s footer.
 
 
 ## This site
-This site was created using (Jekyll)[https://jekyllrb.com/] and the [TeXt theme](https://tianqi.name/jekyll-TeXt-theme/)
+This site was created using [Jekyll](https://jekyllrb.com/) and the [TeXt theme](https://tianqi.name/jekyll-TeXt-theme/)
