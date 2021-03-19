@@ -1,6 +1,6 @@
 ---
 title: Post with Header Image
-categories: Tech/CS
+categories: Tech
 tags: TeXt
 article_header:
   type: cover
