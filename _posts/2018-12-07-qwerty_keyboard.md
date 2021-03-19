@@ -25,6 +25,7 @@ We often take the technology we have today for granted, and we rarely ask oursel
 {: style="text-align:center"}
 ![Old TypeWriter](/assets/images/qwerty-keyboard/Old_Typewriter.jpg)
 
+{: style="text-align:center"}
 An early typewriter with the piano-like layout.
 
 Okay, so our story starts back at the end of the 19th century, when typewriters were just getting popular and they were much faster than writing by hand. They had a layout similar to piano keys and were arranged in alphabetical order. So, the buttons were really close to each other and when a typist would type really fast, his typewriter would get jammed and they’d have to manually unjam it. So, the typewriter manufacturers decided to make a layout that separated the keys from each other a bit to prevent jamming, and at the same time make it still faster than writing by hand.
