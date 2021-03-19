@@ -14,7 +14,7 @@ article_header:
 # Stick to an image with a height of 700
   image:
     src: /assets/images/about/Thinkpad.jpg
-cover: /assets/images/about/Thinkpad.jpg
+cover: /assets/images/about/Thinkpad_square.jpg
 ---
 
 This is literally just a test post about C programming to test Jekyll and stuff.
