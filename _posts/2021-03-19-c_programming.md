@@ -8,10 +8,10 @@ mode: normal
 header:
   theme: dark
 article_header:
-  type: overlay
+  type: cover 
   theme: dark
-  background_color: '#203028'
-  background_image:
+  background_image: false
+  image:
     src: /assets/images/about/Thinkpad.jpg
 cover: /assets/images/about/Thinkpad.jpg
 ---
