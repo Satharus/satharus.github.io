@@ -14,7 +14,7 @@ header:
       en-CA   : *EN      
       en-AU   : *EN      
       # @end locale config
-    url: /tech-cs.html
+    url: /categories/tech-cs.html
 
   - titles:
       # @start locale config
@@ -24,7 +24,7 @@ header:
       en-CA   : *EN      
       en-AU   : *EN      
       # @end locale config
-    url: /404.html
+    url: /categories/cybersecurity.html
 
   - titles:
        # @start locale config
@@ -34,7 +34,7 @@ header:
       en-CA   : *EN      
       en-AU   : *EN      
       # @end locale config
-    url: /404.html   
+    url: /categories/misc.html   
   
   - titles:
       # @start locale config
