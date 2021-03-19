@@ -28,7 +28,7 @@ header:
 
   - titles:
        # @start locale config
-      en      : &EN      Misc 
+      en      : &EN      Misc. 
       en-GB   : *EN      
       en-US   : *EN      
       en-CA   : *EN      
