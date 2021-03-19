@@ -20,7 +20,8 @@ cover: /assets/images/qwerty-keyboard/TypeWriter_cover.png
 We often take the technology we have today for granted, and we rarely ask ourselves “But, why is it this way?”, let's talk a look on QWERTY keyboards.
 <!--more-->
 
-# The history of typewriters and keyboards
+# The History of Typewriters and Keyboards
+
 {: style="text-align:center"}
 ![Old TypeWriter](/assets/images/qwerty-keyboard/Old_Typewriter.jpg)
 
