@@ -3,7 +3,6 @@ title: Test Post about C Programming
 categories: Tech
 author: Ahmed Elmayyah
 tags: [C, Programming, Low Level]
-sharing: true
 ---
 
 This is literally just a test post about C programming to test Jekyll and stuff.
