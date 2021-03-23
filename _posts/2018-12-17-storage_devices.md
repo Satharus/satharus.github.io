@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Storage Devices: A Smart Trick 
+title: Storage Devices\: A Smart Trick 
 categories: Tech
 author: Ahmed Elmayyah
 tags: [Misc.]
