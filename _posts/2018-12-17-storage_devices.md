@@ -17,7 +17,7 @@ article_header:
 cover: /assets/images/storage-devices/hdd_square.jpg
 ---
 
-ou go out to the nearest computer store or mall and you buy a brand new fancy 1TB USB 3.0 hard drive with all the cool backup features that no one really uses, and not only until you plug it into your PC that you feel scammed! You find out that it is roughly only 931 “gigabytes” instead of the 1000 or 1024 you were expecting!
+You go out to the nearest computer store or mall and you buy a brand new fancy 1TB USB 3.0 hard drive with all the cool backup features that no one really uses, and not only until you plug it into your PC that you feel scammed! You find out that it is roughly only 931 “gigabytes” instead of the 1000 or 1024 you were expecting!
 <!--more-->
 
 It doesn’t feel good and it really is confusing to most users, the truth is that no one really scammed you and what the manufacturers/distributors are advertising is perfectly legal but not as honest as most of us would like. Most people just don’t know the difference.
@@ -41,6 +41,8 @@ So, when you plug that product in, the computer reads its capacity in base 2(bin
 So it will evaluate to the following:
 
 <p style="text-align:center;">1 TB = <span class="_4yxp">10<sup>12</sup></span> Bytes</p><p style="text-align:center;"><span class="_4yxp">10<sup>12</sup></span> Bytes = 976,562,500 KiB <span style="color:#ff9900;">(Divide by 1024 to convert Bytes to KibiBytes)</span></p><p style="text-align:center;">976,562,500 KiB = 953,674.32 MiB <span style="color:#ff9900;">(Divide by 1024 to convert KibiBytes to MibiBytes)</span></p><p style="text-align:center;">953,674.32 MiB = 931.32 GiB <span style="color:#ff9900;">(Divide by 1024 to convert MibiBytes to GibiBytes)</span></p>
+
+
 
 We find out that indeed, 1 **TeraByte (TB)** = 931.32 **GibiBytes (GiB)**, which is the actual size of the hard drive.
 
