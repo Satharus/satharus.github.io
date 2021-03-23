@@ -3,7 +3,7 @@ layout: article
 title: "Storage Devices: A Smart Trick" 
 categories: Tech
 author: Ahmed Elmayyah
-tags: [Misc.]
+tags: [Tech Facts]
 mode: normal 
 header:
   theme: dark
@@ -43,6 +43,7 @@ So it will evaluate to the following:
 <p style="text-align:center;">1 TB = <span class="_4yxp">10<sup>12</sup></span> Bytes</p><p style="text-align:center;"><span class="_4yxp">10<sup>12</sup></span> Bytes = 976,562,500 KiB <span style="color:#ff9900;">(Divide by 1024 to convert Bytes to KibiBytes)</span></p><p style="text-align:center;">976,562,500 KiB = 953,674.32 MiB <span style="color:#ff9900;">(Divide by 1024 to convert KibiBytes to MibiBytes)</span></p><p style="text-align:center;">953,674.32 MiB = 931.32 GiB <span style="color:#ff9900;">(Divide by 1024 to convert MibiBytes to GibiBytes)</span></p>
 
 
+<section id="" markdown="1">
 
 We find out that indeed, 1 **TeraByte (TB)** = 931.32 **GibiBytes (GiB)**, which is the actual size of the hard drive.
 
@@ -57,3 +58,5 @@ Thanks for reading this post! I hope you enjoyed it and learnt something.
 If you liked it then give it a like. If you didn’t then tell me why in the comments. If you have any suggestions for future posts, make sure to tell me too. 
 
 And don’t forget to share this with your friends if you think that they’ll like it or find it interesting!
+
+</section>
