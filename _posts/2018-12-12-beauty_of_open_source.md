@@ -13,7 +13,7 @@ article_header:
   background_image: false
 # Stick to an image with a height of 700
   image:
-    src: /assets/images/beauty-of-open-source/brick.jpg
+    src: /assets/images/beauty-of-open-source/brick_header.jpg
 cover: /assets/images/beauty-of-open-source/brick_square.jpg
 ---
 
