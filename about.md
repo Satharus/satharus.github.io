@@ -51,5 +51,5 @@ You can find links to my social media accounts in the site’s footer.
 <iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/45784755/activity-summary/b916de7f407305cdc30ce631d5a1834f9a997465'></iframe>
 
 
-## This site
-This site was created using [Jekyll](https://jekyllrb.com/) and the [TeXt theme](https://tianqi.name/jekyll-TeXt-theme/)
+### This site
+This site was created using [Jekyll](https://jekyllrb.com/) and the [TeXt theme](https://tianqi.name/jekyll-TeXt-theme/).
