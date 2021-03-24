@@ -64,6 +64,7 @@ Software like this mostly relies on donations or ads for profit, or uses a freem
 Freedom Score:
 - In some cases, it is allowed to be used unlimitedly. (0.5)
 - In some cases, it is allowed to be shared. (0.5)
+
 Total Score **1/4**. (Depending on the developer)
 
 
@@ -94,6 +95,7 @@ Freedom Score:
 - In some cases, it is allowed to be used unlimitedly. (0.5)
 - You can freely study the code and find out what the program exactly does.(1.0)
 - You can improve the software as long as you don’t redistribute it. (0.5)
+
 Total Score **2/4**. (Depending on the license)
 
 ## Free, Open Source Software (FOSS)
