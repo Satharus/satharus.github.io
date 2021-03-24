@@ -78,8 +78,10 @@ Closed source software can harm your computer and privacy, and it isn’t unhear
 
 Freedom Score: **0/4**.
 
-Remind me again, why does this exist? 💸
+Remind me again, why does this exist? 💸💸
 
+{: style="text-align:center"}
+![angry_stallman](/assets/images/whats-foss/angry_stallman.jpg)
 
 ## Source-Available Software
 
