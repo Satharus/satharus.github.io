@@ -62,9 +62,9 @@ The user is mostly not allowed to redistribute, reverse engineer, or modify the 
 Software like this mostly relies on donations or ads for profit, or uses a freemium model to attract users.
 
 Freedom Score:
-    - In some cases, it is allowed to be used unlimitedly. (0.5)
-    - In some cases, it is allowed to be shared. (0.5)
-    Total Score **1/4**. (Depending on the developer)
+- In some cases, it is allowed to be used unlimitedly. (0.5)
+- In some cases, it is allowed to be shared. (0.5)
+Total Score **1/4**. (Depending on the developer)
 
 
 ## Proprietary Software
@@ -91,10 +91,10 @@ The user is usually allowed to modify the software and use it as much as they wa
 This is a pretty good case where the user gets to know what the software exactly does, and modify it if they don’t like that.
 
 Freedom Score:
-    - In some cases, it is allowed to be used unlimitedly. (0.5)
-    - You can freely study the code and find out what the program exactly does.(1.0)
-    - You can improve the software as long as you don’t redistribute it. (0.5)
-    Total Score **2/4**. (Depending on the license)
+- In some cases, it is allowed to be used unlimitedly. (0.5)
+- You can freely study the code and find out what the program exactly does.(1.0)
+- You can improve the software as long as you don’t redistribute it. (0.5)
+Total Score **2/4**. (Depending on the license)
 
 ## Free, Open Source Software (FOSS)
 
@@ -122,6 +122,7 @@ Freedom Score: **4/4**.
 |    Improve    |     ❌    |      ❌      |         ⚠️        |   ✅  |
 
 ⚠️ Freeware restrictions depend on what the developer wants to set.
+
 ⚠️ You're allowed to improve Source-Available software but not allowed to redeistricute. Also, its unlimited use is for the devloper to decide.
 
 # Conclusion
