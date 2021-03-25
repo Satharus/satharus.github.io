@@ -3,7 +3,7 @@ layout: article
 title: Optimistic Nihilism 
 categories: [Misc]
 author: Ahmed Elmayyah
-tags: []
+tags: [Misc.]
 mode: normal 
 header:
   theme: dark
@@ -13,7 +13,7 @@ article_header:
   background_image: false
 # Stick to an image with a height of 700
   image:
-    src: /assets/images/optimistic-nihlism/galaxy_cover.jpg
+    src: /assets/images/optimistic-nihlism/galaxy_header.jpg
 cover: /assets/images/optimistic-nihlism/galaxy_cover.jpg
 ---
 
