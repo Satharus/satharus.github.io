@@ -64,7 +64,10 @@ Well, first of all: we don’t really know if that will surely happen, and we de
 
 Here’s a quote from a [Reddit AmA](https://www.reddit.com/r/IAmA/comments/qccer/i_am_neil_degrasse_tyson_ask_me_anything/c3wgffy/) by one of the people I really respect.
 
-> “The problem, often not discovered until late in life, is that when you look for things like love, meaning, motivation, it implies they are sitting behind a tree or under a rock. The most successful people recognize, that in life they create their own love, they manufacture their own meaning, they generate their own motivation. For me, I am driven by two main philosophies, know more today about the world than I knew yesterday. And along the way, lessen the suffering of others. You’d be surprised how far that gets you.”
+> “The problem, often not discovered until late in life, is that when you look for things like love, meaning, motivation, it implies they are sitting behind a tree or under a rock. The most successful people recognize, that in life they create their own love, they manufacture their own meaning, they generate their own motivation. 
+>
+> For me, I am driven by two main philosophies, know more today about the world than I knew yesterday. And along the way, lessen the suffering of others. You’d be surprised how far that gets you.”
+> 
 > – Neil deGrasse Tyson
 
 You may be going through an existential crisis right now, which is totally fine. That means you’re curious enough to question things people don’t usually like to question.
