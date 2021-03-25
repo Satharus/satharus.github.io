@@ -3,7 +3,7 @@ layout: article
 title: "Buffer Overflows: The Basics" 
 categories: [Cybersecurity]
 author: Ahmed Elmayyah
-tags: [Programming, C, Low Level, Exploitation, Reverse Engineering, Buffer Overflow]
+tags: [Programming, C, Low Level, Exploitation, Reverse Engineering, Buffer Overflows]
 mode: normal 
 header:
   theme: dark
@@ -24,6 +24,8 @@ A buffer overflow is a bug in software where memory gets overwritten due to a bu
 <!--more-->
 
 # How? 
+
+Let’s take a look at a little example written in C.
 
 ```c
 #include <stdio.h>
@@ -49,7 +51,7 @@ Overflow.c
 
 The example is really simple. A char array (buff) with size 6 is allocated*, and a char (a) which has the value of ‘A’. If you remember from my last post, chars are stored as single bytes. After that, the program asks for an input from the user. Then, it prints the value of the 2 declared variables.
 
-\*If you don’t know, variables are allocated in a “stack” in memory in the order that they were declared.
+\*If you don’t know, variables are allocated in a _“stack”_ in memory in the order that they were declared.
 
 Let’s compile the example with GCC 8.3 and run it: `gcc -fno-stack-protector -o overflow Overflow.c`
 
@@ -129,7 +131,7 @@ I didn’t add any checking or protection in the example above since, well, I wa
 
 **Good news, though.** A lot of modern compilers enable stack protection by default, where they don’t allow most buffer overflows to happen by returning a segmentation fault if the stack is changed in a strange manner.
 
-Now to explain the compilation part, remember the -fno-stack-protector option that was added to the GCC compilation? That was to disable stack protection so that the buffer overflow would work. If I were to remove that option, and compile it with just: `gcc  -o overflow  Overflow.c` the program would return a segmentation fault whenever any buffer overflows happened.
+Now to explain the compilation part, remember the `-fno-stack-protector` option that was added to the GCC compilation? That was to disable stack protection so that the buffer overflow would work. If I were to remove that option, and compile it with just: `gcc  -o overflow  Overflow.c` the program would return a segmentation fault whenever any buffer overflows happened.
 
 You can learn more about [stack protection, here](https://www.proggen.org/doku.php?id=security:memory-corruption:protection:stack-protection).
 
