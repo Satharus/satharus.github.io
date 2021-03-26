@@ -46,7 +46,11 @@ This guide was only tested on the Lenovo IdeaPad 310, but it should work on any 
 
 My specific chip is the rtl8821ae.
 
-You can find out which chip you have by running the following command: `lspci | grep -i wireless`
+You can find out which chip you have by running the following command: 
+
+```sh
+lspci | grep -i wireless
+```
 
 {: style="text-align:center"}
 ![Chip](/assets/images/ideapad-3xx-series-wifi-linux/Chip.png)
@@ -81,7 +85,11 @@ That’s a very abstract simplification so don’t @ me.
 
 You can find out information about a kernel module by running the command modinfo.
 
-We can run this command to get the list of available parameters for the module: `modinfo rtl8821ae | grep parm -A2`
+We can run this command to get the list of available parameters for the module: 
+
+```sh
+modinfo rtl8821ae | grep parm -A2
+```
 
 {: style="text-align:center"}
 ![Params](/assets/images/ideapad-3xx-series-wifi-linux/Params.png)
@@ -103,7 +111,11 @@ This command will make a config file with the firmware power save option set to 
 
 Now you can completely poweroff your system and then power it on again (don’t reboot) and the WiFi SHOULD work normally.
 
-After doing so, you can run the following command to make sure that the module was loaded with the specified options: `sudo systool -avm rtl8821ae | grep param -iA10`
+After doing so, you can run the following command to make sure that the module was loaded with the specified options: 
+
+```sh
+sudo systool -avm rtl8821ae | grep param -iA10
+```
 
 {: style="text-align:center"}
 ![sysvtool](/assets/images/ideapad-3xx-series-wifi-linux/sysvtool.png)
