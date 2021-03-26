@@ -160,8 +160,8 @@ In “Build”, set the assembler to “MASM”.
 
 In “Common”, set the font you like and its size and set the default code editor text to the following. As for the font, I found Liberation Mono with size 15 to work best for me.
 
-{:.assembly}
-```assembly
+{:.masm}
+```masm
 INCLUDE C:\Irvine\Irvine32.inc
 INCLUDELIB C:\Irvine\Irvine32.lib
 INCLUDELIB C:\Irvine\User32.lib
