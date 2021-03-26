@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Acronyms 
+title: Using MASM with the Irvine Library on GNU/Linux 
 categories: [Tech]
 author: Ahmed Elmayyah
 tags: [Linux, Assembly, Programming, Low Level]
@@ -46,15 +46,15 @@ The first step, of course, is downloading the software we need.
 
 Download MASM from [here](http://website.assemblercode.com/masm32/masm32v11r.zip), DO NOT get it from Microsoft’s site as it won’t work.
 
-- http://website.assemblercode.com/masm32/masm32v11r.zip
+- [http://website.assemblercode.com/masm32/masm32v11r.zip](http://website.assemblercode.com/masm32/masm32v11r.zip)
 
 Download SASM from [here](https://dman95.github.io/SASM/english.html), make sure to download the Windows version as the Linux version doesn’t support MASM due to Microsoft’s EULA.
 
-- https://dman95.github.io/SASM/english.html
+- [https://dman95.github.io/SASM/english.html](https://dman95.github.io/SASM/english.html)
 
 Download Irvine library from [here](http://www.kipirvine.com/asm/examples/Irvine_7th_Edition.msi).
 
-- http://www.kipirvine.com/asm/examples/Irvine_7th_Edition.msi
+- [http://www.kipirvine.com/asm/examples/Irvine_7th_Edition.msi](http://www.kipirvine.com/asm/examples/Irvine_7th_Edition.msi)
 
 ## Downloading WINE and PlayOnLinux
 
@@ -73,14 +73,14 @@ Optionally, you may also need to download these:
 
 If you’re using Ubuntu/Linux Mint/elementaryOS, you can check out these guides to install PlayOnLinux:
 
-- https://help.ubuntu.com/community/PlayOnLinux
-- http://wiki.playonlinux.com/index.php/Installing_PlayOnLinux
-- https://www.sysnettechsolutions.com/en/linux/install-playonlinux/
+- [https://help.ubuntu.com/community/PlayOnLinux](https://help.ubuntu.com/community/PlayOnLinux)
+- [http://wiki.playonlinux.com/index.php/Installing_PlayOnLinux](http://wiki.playonlinux.com/index.php/Installing_PlayOnLinux)
+- [https://www.sysnettechsolutions.com/en/linux/install-playonlinux](https://www.sysnettechsolutions.com/en/linux/install-playonlinux)
 
 Also check this to install WINE which is required for PlayOnLinux to work:
 
-- https://www.pcsuggest.com/install-wine-ubuntu/
-- https://vitux.com/how-to-install-wine-on-ubuntu/ 
+- [https://www.pcsuggest.com/install-wine-ubuntu](https://www.pcsuggest.com/install-wine-ubuntu/)
+- [https://vitux.com/how-to-install-wine-on-ubuntu](https://vitux.com/how-to-install-wine-on-ubuntu/) 
 
 If you use Arch Linux/Manjaro or any Arch-based distro, you can install everything you need just by running this command: `# pacman -S wine winetricks wine-mono wine_gecko playonlinux`
 
@@ -160,7 +160,7 @@ In “Build”, set the assembler to “MASM”.
 
 In “Common”, set the font you like and its size and set the default code editor text to the following. As for the font, I found Liberation Mono with size 15 to work best for me.
 
-```asm
+```assembly
 INCLUDE C:\Irvine\Irvine32.inc
 INCLUDELIB C:\Irvine\Irvine32.lib
 INCLUDELIB C:\Irvine\User32.lib
