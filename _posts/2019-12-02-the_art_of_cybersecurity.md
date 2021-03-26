@@ -132,7 +132,7 @@ A malware hits a company’s server. To clean up, you have to know what the malw
 Check out these 3 videos to get a general idea:
 
 - [MMORPG Bot Reverse Engineering and Tracking - LiveOverFlow](https://www.youtube.com/watch?v=irhcfHBkfe0)
-- [Introduction to Reverse Engineering | Ollydbg Tutorial - The PC Security Channel](https://youtu.be/D6mVIos-S2M)
+- [Introduction to Reverse Engineering \| Ollydbg Tutorial - The PC Security Channel](https://youtu.be/D6mVIos-S2M)
 - [Buffer Overflow Attack – Computerphile](https://youtu.be/1S0aBV-Waeo)
 
 ## Resources
