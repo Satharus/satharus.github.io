@@ -184,7 +184,7 @@ So I tried running it in PowerShell and got “Failed!” as an output.
 
 So it was time to deobfuscate that code and get an idea of what it is doing.
 
-I looked online for quite some time until I stumbled across another writeup that showed that you can treat this whole code as a string and pass it as an argument to Write-Output in PowerShell. We just have to remove the part at the start until -JOiN”).
+I looked online for quite some time until I stumbled across another writeup that showed that you can treat this whole code as a string and pass it as an argument to `Write-Output` in PowerShell. We just have to remove the part at the start until -JOiN”).
 
 So here we go, It seems to make a little bit more sense.
 
@@ -209,7 +209,7 @@ You can see the flag being compared in the most retarded way possible. Neverthel
 {: style="text-align:center"}
 ![cleaned file](/assets/images/writeup-egcert-finals-2019/cleanedfile.png)
 
-`cat flagCode.ps  | tr {} '\n' | cut -d \' -f 2 | tr -d '\n' | tr -d ' '`
+The command would be: `cat flagCode.ps  | tr {} '\n' | cut -d \' -f 2 | tr -d '\n' | tr -d ' '`
 
 {: style="text-align:center"}
 ![finalcommand](/assets/images/writeup-egcert-finals-2019/finalcommand.png)
