@@ -3,7 +3,7 @@ layout: article
 title: The Unspoken Beauty of Open Source
 categories: Tech
 author: Ahmed Elmayyah
-tags: [FOSS]
+tags: [Tech, FOSS]
 mode: normal 
 header:
   theme: dark

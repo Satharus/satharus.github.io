@@ -3,7 +3,7 @@ layout: article
 title: What's Foss?
 categories: [Tech]
 author: Ahmed Elmayyah
-tags: [Privacy, FOSS]
+tags: [Tech, Privacy, FOSS, Guide]
 mode: normal 
 header:
   theme: dark

@@ -3,7 +3,7 @@ layout: article
 title: "Buffer Overflows: The Basics" 
 categories: [Cybersecurity]
 author: Ahmed Elmayyah
-tags: [Programming, C, Low Level, Exploitation, Reverse Engineering, Buffer Overflows]
+tags: [Cybersecurity, Programming, C, Low Level, Exploitation, Reverse Engineering, Buffer Overflows]
 mode: normal 
 header:
   theme: dark

@@ -3,7 +3,7 @@ layout: article
 title: "CyberTalents Writeup: Egypt National Cyber Security CTF 2019" 
 categories: [Cybersecurity]
 author: Ahmed Elmayyah
-tags: [Writeup, CTF]
+tags: [Cybersecurity, Writeup, CTF]
 mode: normal 
 header:
   theme: dark

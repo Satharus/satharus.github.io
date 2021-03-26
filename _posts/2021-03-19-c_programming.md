@@ -3,7 +3,7 @@ layout: article
 title: Test Post about C Programming 
 categories: Tech
 author: Ahmed Elmayyah
-tags: [C, Programming, Low Level]
+tags: [Tech, C, Programming, Low Level]
 mode: normal 
 header:
   theme: dark

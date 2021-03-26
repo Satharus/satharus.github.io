@@ -3,7 +3,7 @@ layout: article
 title: "Storage Devices: A Smart Trick" 
 categories: Tech
 author: Ahmed Elmayyah
-tags: [Tech Facts]
+tags: [Tech, Tech Facts]
 mode: normal 
 header:
   theme: dark

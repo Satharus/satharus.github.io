@@ -3,7 +3,7 @@ layout: article
 title: Using MASM with the Irvine Library on GNU/Linux 
 categories: [Tech]
 author: Ahmed Elmayyah
-tags: [Linux, Assembly, Programming, Low Level]
+tags: [Tech, Linux, Assembly, Programming, Low Level, Guide]
 mode: normal 
 header:
   theme: dark
