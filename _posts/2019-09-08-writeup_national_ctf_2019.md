@@ -201,7 +201,7 @@ So I did exactly that, I reversed the file.
 I discovered a fun utility in Linux called “tac” which does what “cat” does but in reverse. It reads the file in reverse order.
 
 {: style="text-align:center"}
-![yourock](/assets/images/writeup-national-ctf-2019/yourock.png)
+`$ tac /usr/share/wordlists/rockyou.txt >> yourock.txt`
 
 In less than 2 seconds, the password was cracked.
 
