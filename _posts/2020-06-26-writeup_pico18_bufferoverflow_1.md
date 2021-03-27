@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Buffer Overflows: PicoCTF2018-BufferOverflow-1 (Exploitation)" 
+title: "Buffer Overflows: PicoCTF2018-BufferOverflow-1" 
 categories: [Cybersecurity]
 author: Ahmed Elmayyah
 tags: [Cybersecurity, C, Exploitation, Writeup, Buffer Overflows]
