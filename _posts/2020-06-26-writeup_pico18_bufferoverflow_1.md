@@ -3,7 +3,7 @@ layout: article
 title: "Buffer Overflows: PicoCTF2018-BufferOverflow-1 (Exploitation)" 
 categories: [Cybersecurity]
 author: Ahmed Elmayyah
-tags: [Cybersecurity, C, Exploitation, Low Level, Writeup]
+tags: [Cybersecurity, C, Exploitation, Writeup, Buffer Overflows]
 mode: normal 
 header:
   theme: dark
@@ -33,7 +33,6 @@ This is the description of the challenge. Since we have the source code availabl
 ```c
 #define BUFSIZE 32
 #define FLAGSIZE 64
-
 ```
 
 ```c
