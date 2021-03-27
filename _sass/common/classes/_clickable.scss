@@ -115,7 +115,7 @@
   @include active() {
     color: $active-clr;
     @if $active-bg-clr {
-      background-color: $active-bg-clr;
+      background-color: rgb(20, 131, 55);
     }
     @if $ignore-path == false {
       svg path {
