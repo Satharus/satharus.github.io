@@ -31,6 +31,6 @@ Not strictly software, but related:
 ## My GitHub Stats
 
 
-[![Satharus's github stats](https://github-readme-stats.vercel.app/api?username=Satharus&hide=stars&show_icons=true&theme=nord&include_all_commits=true&count_private=true)](https://github.com/Satharus?tab=repositories) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Satharus&langs_count=6&layout=compact&theme=nord)](https://github.com/Satharus?tab=repositories)
+[![Satharus's github stats](https://github-readme-stats.vercel.app/api?username=Satharus&hide=stars&show_icons=true&theme=darcula&include_all_commits=true&count_private=true)](https://github.com/Satharus?tab=repositories) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Satharus&langs_count=6&layout=compact&theme=darcula)](https://github.com/Satharus?tab=repositories)
 
 
