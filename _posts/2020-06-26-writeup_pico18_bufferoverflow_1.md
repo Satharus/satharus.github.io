@@ -73,7 +73,7 @@ void win() {
 
 So that means we need to enter 44 dummy characters to the input of the program, and then the address we want the program to return to.
 
-There are no ASCII characters for 0x08 0x04 0x85 0xcb so we need to write them as raw bytes.
+There are no ASCII characters for `0x08 0x04 0x85 0xcb` so we need to write them as raw bytes.
 
 Piping the output from a small BASH script into the input of the program solves this issue for us.
 
