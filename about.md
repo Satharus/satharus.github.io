@@ -53,3 +53,5 @@ You can find links to my social media accounts in the site’s footer.
 
 ## This site
 This site was created using [Jekyll](https://jekyllrb.com/) and the [TeXt theme](https://tianqi.name/jekyll-TeXt-theme/).
+
+Since this website is static, I couldn't find a proper way to add a comment system in order to get feedback from my readers without resorting to solutions which affect my readers' privacy. So I am encouraging anyone who visits this website to not hesitate if they have any comments or feedback! Email or DM me your suggestions, feedback, and comments anytime! 
