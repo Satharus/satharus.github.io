@@ -89,7 +89,7 @@ echo -e \\xcb\\x85\\x04\\x08
 Mind that the address is entered  in reverse (byte-wise) because Intel x86 is Little-endian which means the least significant byte maps to the lowest memory address. So 0x12345678 would be stored in memory as 0x78563412.
 
 {: style="text-align:center"}
-![Output](/assets/images/ideapad-3xx-series-wifi-linux/Output.png)
+![Output](/assets/images/writeup-pico18-bufferoverflow-1/Output.png)
 
 And boom! We have a flag 🙂
 
