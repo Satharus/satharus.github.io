@@ -30,14 +30,12 @@ If you don’t know what CTFs are, check out my article: [The Art of Cybersecuri
 This is the description of the challenge. Since we have the source code available, it is easier to start there and then resort to disassembling the program or debugging it if necessary. By inspecting the source code of the program, we find that the input is taken via a buffer of size 32.
 
 
-{: style="text-align:center"}
 ```c
 #define BUFSIZE 32
 #define FLAGSIZE 64
 
 ```
 
-{: style="text-align:center"}
 ```c
 void vuln(){
   char buf[BUFSIZE];
@@ -80,7 +78,6 @@ There are no ASCII characters for 0x08 0x04 0x85 0xcb so we need to write them a
 
 Piping the output from a small BASH script into the input of the program solves this issue for us.
 
-{: style="text-align:center"}
 ```sh
 for a in `seq 1 44`
 do
