@@ -61,7 +61,7 @@
         $active-clr: darken($hover-clr, 15%);
       }
       @if $theme == "dark" {
-        $active-clr: lighten($hover-clr, 16%);
+        $active-clr: lighten($hover-clr, 50%);
       }
     } @else if $active-bg-clr == default {
       $active-clr: $hover-clr;
