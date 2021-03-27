@@ -52,8 +52,6 @@ The data storage manufacturers aren’t lying here, they’re just kind of explo
 
 Thanks for reading this post! I hope you enjoyed it and learnt something.
 
-If you liked it then give it a like. If you didn’t then tell me why in the comments. If you have any suggestions for future posts, make sure to tell me too. 
-
-And don’t forget to share this with your friends if you think that they’ll like it or find it interesting!
+If you have any suggestions for future posts, make sure to tell me, and don’t forget to share this with your friends if you think that they’ll like it or find it interesting!
 
 </section>

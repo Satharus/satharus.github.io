@@ -70,7 +70,7 @@ Thanks for reading this post, I hope that you enjoyed it or that it made you loo
 
 And again, this is all just my opinion. You may agree with me, you may see this whole post as a stupid way of representing something you like or you may not like the post or the idea of open source at all.
 
-If you have any comments or topics to discuss, I’d be more than happy if you leave them in the comments below!
+If you have any comments or topics to discuss, feel free to reach out or share this post and start your discussion!
 
 
 Featured image credit: [Another Brick in the Wall by Ninja M.](https://www.flickr.com/photos/a_ninjamonkey/3294921237)

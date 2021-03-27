@@ -137,5 +137,5 @@ You can learn more about [stack protection, here](https://www.proggen.org/doku.p
 
 Here’s a post showing an [actual buffer overflow](https://satharus.me/cybersecurity/2020/06/26/writeup_pico18_bufferoverflow_1.html) exploit in a CTF challenge. Give it a read, now that you know what a buffer overflow is.
 
-Thanks a lot for reading this post. I hope you enjoyed it and learned something new!
-Share it with your friends if you think they’ll find it interesting. I’ll appreciate any questions or feedback in the comments.
+Thanks a lot for reading this post. I hope you enjoyed it and learnt something new!
+Share it with your friends if you think they’ll find it interesting. I’ll appreciate any questions or feedback!

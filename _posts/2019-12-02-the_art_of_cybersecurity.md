@@ -212,7 +212,7 @@ I hope that this guide was enough to get you sort of started with cybersecurity.
 
 You may feel lost at first and that is completely normal as it is a huge field.
 
-I’ve updated this guide a lot since it was first written. So, please, if you have any recommendations for study material, by all means dm or tweet them, or email them to me and I’ll add them to this guide or any future upcoming articles if the material doesn’t fit here.
+I’ve updated this guide a lot since it was first written. So, please, if you have any recommendations for study material, by all means tweet them at me, or email/dm them to me and I’ll add them to this guide or any future upcoming articles if the material doesn’t fit here.
 
 Share this guide with your friends if you found it useful.
 As always, thanks for reading!
