@@ -2,7 +2,7 @@
 layout: article
 titles:
   # @start locale config
-  en      : &EN       About
+  en      : &EN      My Work 
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
@@ -10,8 +10,6 @@ titles:
   # @end locale config
 key: page-about
 ---
-
-# My Work
 
 I usually like to tinker with low level programming, reverse engineering, Linux, and hardware and stuff. Here's some of the work I am proud of, in no particular order:
 
