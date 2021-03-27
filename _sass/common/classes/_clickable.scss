@@ -50,7 +50,7 @@
       $hover-bg-clr: darken($bg-clr, 14%);
     }
     @if $theme == "dark" {
-      $hover-bg-clr: lighten($bg-clr, 18%);
+      $hover-bg-clr: darken($bg-clr, 18%);
     }
   }
 
@@ -73,7 +73,7 @@
       $active-bg-clr: darken($hover-bg-clr, 15%);
     }
     @if $theme == "dark" {
-      $active-bg-clr: lighten($hover-bg-clr, 50%);
+      $active-bg-clr: lighten($hover-bg-clr, 16%);
     }
   }
 
