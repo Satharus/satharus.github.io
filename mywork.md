@@ -27,10 +27,14 @@ Not strictly software, but related:
 - [EOI 2019 Competitive Programming Sessions](https://github.com/Satharus/EOI-Preparation-Sessions) for middle schoolers.
 - Open Source Community [FCIS Linux Workshop 2019 content](https://github.com/Satharus/OSC19-Linux-Workshop-Sessions).
 
+Here are some other posts I've published elsewhere:
+
+- [Catch the IEX if You Can: PowerShell De-Obfuscation](https://blog.cybercastle.io/catch-the-iex-if-you-can-powershell-de-obfuscation/) (Cyber Castle Blog - 10/5/2021)
+- [Privacy 101 : How to protect your privacy over the internet](https://mnztechnology.com/blog/privacy-101-how-to-protect-your-privacy-over-the-web) (MNZ Technology Blog - 21/6/2020)
+
 
 ## My GitHub Stats
 
 
 [![Satharus's github stats](https://github-readme-stats.vercel.app/api?username=Satharus&hide=stars&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true)](https://github.com/Satharus?tab=repositories) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Satharus&langs_count=6&layout=compact&theme=gruvbox)](https://github.com/Satharus?tab=repositories)
-
 
