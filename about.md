@@ -17,7 +17,7 @@ key: page-about
 
 ## About Me 
 
-A little bit about myself: My real name is Ahmed Elmayyah(AKA Satharus in some places), I’m a senior computer systems student at Ain Shams University, cybersecurity enthusiast and researcher, and a strong supporter of free/libre software and decentralisation. I currently work as a DFIR Engineer at [Cyber Castle](https://www.cybercastle.io). Sometimes I do purple-teaming too. I am also an [eCRE](https://www.elearnsecurity.com/certification/ecre/).
+A little bit about myself: My real name is Ahmed Elmayyah(AKA Satharus in some places), I graduated from the Faculty of Computer and Information Sciences, Computer Systems Department, Ain Shams University in July 2021. I'm a cybersecurity enthusiast and researcher, tinkerer, and a strong supporter of free/libre software and decentralisation. I currently work as a DFIR Engineer at [Cyber Castle](https://www.cybercastle.io). Sometimes I do purple-teaming too. I am also an [eCRE](https://www.elearnsecurity.com/certification/ecre/).
 
 I was born in Egypt and grew up in the town of Cumbernauld in Scotland. My family moved back to Cairo -where I am currently living- when I was around 10.
 
@@ -31,7 +31,7 @@ You can check some of [my work here](https://satharus.me/mywork.html).
 ## Contact Me 
 Feel free to contact me anytime! 😀
 
-You can find links to my social media accounts in the site’s footer.
+You can find links to my socials in the site’s footer.
 
 #### Add me on Strava 
 <iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/45784755/activity-summary/b916de7f407305cdc30ce631d5a1834f9a997465'></iframe>
